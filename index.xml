@@ -6,10 +6,69 @@
     <description>Recent content on Kansai Database Workshop 2017</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <copyright>My Name</copyright>
+    <copyright>Kansai Database Workshop 2017</copyright>
+    <lastBuildDate>Tue, 27 Jun 2017 23:03:34 +0900</lastBuildDate>
     
 	<atom:link href="https://yu-suzuki.github.io/dbws2017/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accommodation</title>
+      <link>https://yu-suzuki.github.io/dbws2017/accommodation/</link>
+      <pubDate>Tue, 27 Jun 2017 23:03:34 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/accommodation/</guid>
+      <description>以下の情報は2016年の情報です．2017年についてはまだ決まっていませんが，参考のため掲載しています．
+本ワークショップに参加するために必要な費用は，参加費，宿泊費，夕食費，懇親会費の合計金額です．全ての参加者は参加費が必要です．
+宿泊費 宿泊される方のみ必要です．朝食，昼食，夕食，参加費は含まれていません．なお，歯ブラシやシャンプー，リンス，バスタオルなど一切ありませんので，各自ご準備頂きますようお願いいたします．
+ 教員(個室) 3,000円 教員(大部屋) 1,500円 学生(甲南大学学生以外) 1,500円 学生(甲南大学学生) 1,000円  夕食費 夕食に参加される方のみ必要です．アルコール類は含まれていません．懇親会費は含まれていません．
+ 教員 2,000円 学生 1,000円  #参加費
+参加される方はすべて必要です．部分的に参加される方も同額です．参加費には食事代，宿泊費は含まれていません．
+ 教員 3,000円 学生 2,000円  懇親会費 懇親会に参加される方のみ必要です．懇親会費には夕食が含まれていません．
+ 教員/学生 2,000円  参考: 必要な費用の試算 学生（甲南大生以外）で夕食，宿泊，懇親会へ参加: 1,500(宿)+1,000(夕)+2,000(参)+2,000(懇) = 6,500円
+学生で参加するだけ: 2,000円
+教員で夕食，宿泊，懇親会へ参加: 3,000(宿)+2,000(夕)+3,000(参)+2,000円(懇) = 10,000円</description>
+    </item>
+    
+    <item>
+      <title>Presenter</title>
+      <link>https://yu-suzuki.github.io/dbws2017/presenter/</link>
+      <pubDate>Tue, 27 Jun 2017 23:03:10 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/presenter/</guid>
+      <description> オープニングの時間までに全員，発表資料を掲示してください． 発表番号は 部屋番号-通し番号 です．部屋 101，102 にはそれぞれパネルが準備してあり，番号が書かれています． ポスターはA0以下の大きさで作成してください． ポスターを聞きに来た人へ手短に説明してください．3分くらいで説明できると良いと思います． 有益な質問や意見を記録できるよう，メモと鉛筆を持参してください． ポスター発表のテンプレートはこちらをご利用ください https://yu-suzuki.github.io/dbws2016/ppt/sample.pptx  </description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://yu-suzuki.github.io/dbws2017/program/</link>
+      <pubDate>Tue, 27 Jun 2017 21:55:17 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/program/</guid>
+      <description>    時間 内容     12:30-13:10 招待講演   13:20-14:50 session1   14:55-16:25 session2   16:30-18:00 session3   18:30-20:30 懇親会    招待講演 未定: A先生（A大学)
+Session1    発表番号 所属 発表者 タイトル     101-1-1 A 名無しの権兵衛 タイトル   101-1-2 A 名無しの権兵衛 タイトル   101-1-3 A 名無しの権兵衛 タイトル   101-1-4 A 名無しの権兵衛 タイトル   101-1-5 A 名無しの権兵衛 タイトル   101-1-6 A 名無しの権兵衛 タイトル   101-1-7 A 名無しの権兵衛 タイトル   101-1-8 A 名無しの権兵衛 タイトル   102-1-1 A 名無しの権兵衛 タイトル   102-1-2 A 名無しの権兵衛 タイトル   102-1-3 A 名無しの権兵衛 タイトル   102-1-4 A 名無しの権兵衛 タイトル   102-1-5 A 名無しの権兵衛 タイトル   102-1-6 A 名無しの権兵衛 タイトル   102-1-7 A 名無しの権兵衛 タイトル   102-1-8 A 名無しの権兵衛 タイトル    Session2    発表番号 所属 発表者 タイトル     101-1-1 A 名無しの権兵衛 タイトル   101-1-2 A 名無しの権兵衛 タイトル   101-1-3 A 名無しの権兵衛 タイトル   101-1-4 A 名無しの権兵衛 タイトル   101-1-5 A 名無しの権兵衛 タイトル   101-1-6 A 名無しの権兵衛 タイトル   101-1-7 A 名無しの権兵衛 タイトル   101-1-8 A 名無しの権兵衛 タイトル   102-1-1 A 名無しの権兵衛 タイトル   102-1-2 A 名無しの権兵衛 タイトル   102-1-3 A 名無しの権兵衛 タイトル   102-1-4 A 名無しの権兵衛 タイトル   102-1-5 A 名無しの権兵衛 タイトル   102-1-6 A 名無しの権兵衛 タイトル   102-1-7 A 名無しの権兵衛 タイトル   102-1-8 A 名無しの権兵衛 タイトル    Session3    発表番号 所属 発表者 タイトル     101-1-1 A 名無しの権兵衛 タイトル   101-1-2 A 名無しの権兵衛 タイトル   101-1-3 A 名無しの権兵衛 タイトル   101-1-4 A 名無しの権兵衛 タイトル   101-1-5 A 名無しの権兵衛 タイトル   101-1-6 A 名無しの権兵衛 タイトル   101-1-7 A 名無しの権兵衛 タイトル   101-1-8 A 名無しの権兵衛 タイトル   102-1-1 A 名無しの権兵衛 タイトル   102-1-2 A 名無しの権兵衛 タイトル   102-1-3 A 名無しの権兵衛 タイトル   102-1-4 A 名無しの権兵衛 タイトル   102-1-5 A 名無しの権兵衛 タイトル   102-1-6 A 名無しの権兵衛 タイトル   102-1-7 A 名無しの権兵衛 タイトル   102-1-8 A 名無しの権兵衛 タイトル    </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://yu-suzuki.github.io/dbws2017/about/</link>
+      <pubDate>Tue, 27 Jun 2017 21:55:09 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/about/</guid>
+      <description>関西にあるデータベースやデータ管理に関して研究する七つの研究室が一堂に会し，ポスター発表を行い議論を行う場を企画しました．深い議論や活発な研究交流を促進するとともに，今後の研究成果を生み出すきっかけとなることを期待しています．
+今回は，以下の研究室が参加しています
+ 甲南大学 灘本研究室 同志社大学 波多野研究室 京都大学 吉川・馬研究室 大阪大学 原研究室 関西大学 松下研究室 関西学院大学 角谷研究室 奈良先端科学技術大学院大学 中村研究室（鈴木グループ）  </description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>https://yu-suzuki.github.io/dbws2017/venue/</link>
+      <pubDate>Tue, 27 Jun 2017 21:55:03 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/venue/</guid>
+      <description>平生記念セミナーハウス http://www.konan-u.ac.jp/access/seminar.html
+最寄りの駅は阪急御影，JR住吉，阪神御影です．甲南大学岡本キャンパスとは異なりますのでご注意ください．</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on Kansai Database Workshop 2017</title>
+    <link>https://yu-suzuki.github.io/dbws2017/program/</link>
+    <description>Recent content in Programs on Kansai Database Workshop 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>Kansai Database Workshop 2017</copyright>
+    <lastBuildDate>Tue, 27 Jun 2017 21:14:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://yu-suzuki.github.io/dbws2017/program/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detail</title>
+      <link>https://yu-suzuki.github.io/dbws2017/program/detail/</link>
+      <pubDate>Tue, 27 Jun 2017 21:14:38 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/program/detail/</guid>
+      <description>   Name Age     あああ 27   Alice 23    </description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://yu-suzuki.github.io/dbws2017/program/</link>
+      <pubDate>Tue, 27 Jun 2017 21:14:24 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/program/</guid>
+      <description>   Name Age     Bob 27   Alice 23    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Kansai Database Workshop 2017</title>
+    <link>https://yu-suzuki.github.io/dbws2017/about/</link>
+    <description>Recent content in Abouts on Kansai Database Workshop 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>Kansai Database Workshop 2017</copyright>
+    <lastBuildDate>Tue, 27 Jun 2017 19:27:49 +0900</lastBuildDate>
+    
+	<atom:link href="https://yu-suzuki.github.io/dbws2017/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://yu-suzuki.github.io/dbws2017/about/</link>
+      <pubDate>Tue, 27 Jun 2017 19:27:49 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/about/</guid>
+      <description>関西にあるデータベースやデータ管理に関して研究する七つの研究室が一堂に会し，ポスター発表を行い議論を行う場を企画しました．深い議論や活発な研究交流を促進するとともに，今後の研究成果を生み出すきっかけとなることを期待しています．
+今回は，以下の研究室が参加しています
+ 甲南大学 灘本研究室 同志社大学 波多野研究室 京都大学 吉川・馬研究室 大阪大学 原研究室 関西大学 松下研究室 関西学院大学 角谷研究室 奈良先端科学技術大学院大学 中村研究室（鈴木グループ）  </description>
+    </item>
+    
+  </channel>
+</rss>
