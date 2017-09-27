@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>Kansai Database Workshop 2017</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 23:03:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 21:55:09 +0900</lastBuildDate>
     
 	<atom:link href="https://yu-suzuki.github.io/dbws2017/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Award</title>
+      <link>https://yu-suzuki.github.io/dbws2017/award/</link>
+      <pubDate>Tue, 26 Sep 2017 21:55:09 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2017/award/</guid>
+      <description> 学生奨励賞  同志社大学 寺本 優香 ビジネスメールにおける形態素からの送受信者間の敬語表現判定モデルの構築とその評価 奈良先端科学技術大学院大学 小牧真子 農作業データを用いたスケジュール細分化手法 京都大学 馬場　慧 株価とニュースの統合分析のためのヘテロトピックモデル 奈良先端科学技術大学院大学 田中宏昌 機械学習を利用した翻訳効率の高いmRNA生成 関西大学 赤星 俊平 複合現実空間における複数ユーザ間での仮装オブジェクト受け渡し手法 関西大学 宮本 華奈 類似絵本検索システムの構築に向けたレビュー中の観点分類方法の検討 京都大学 鍋谷 優斗 データ起源に基づくデー タの価値算定 大阪大学 中村 達也 Wikipediaのページレビュー数を用いたTwitter上の話題語に対するエンティティリンキング 京都大学 戴 憶菱 職業を意識した学習意欲の促進に向けた標準カリキュラムと求人情報の関連付け 甲南大学 見塚圭一 Twitter上のニュースに対する解説ツイート抽出手法の提案 関西学院大学 林　利憲 E-Commerceにおける不満情報とレビューに基づいた不満解決商品推薦手法の提案 奈良先端科学技術大学院大学 松田義貴 クラウドワーカの振る舞いを用いた能力推定とタスク複雑度のトレードオフ 京都大学 坂井佑理 地方都市におけるオンデマンドバスを含んだ効率的な公共交通網設計のための調査 同志社大学 木下 泰輝 逐次的親密度推定の実現に向けた対話テキストデータからの特徴抽出法の検討 関西大学 大杉 隆文 調理手順の曖昧性解消を目的とした料理レシピ構成要素の調査  </description>
+    </item>
     
     <item>
       <title>Accommodation</title>
